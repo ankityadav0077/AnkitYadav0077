@@ -6,11 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankityadav0077" alt="ankityadav0077" /></a> </p>
 
 - 🔭 I’m currently working on **College Alert**
+- 💡 I love building scalable web and mobile applications, solving problems, and continuously learning new technologies.
 - 🌱 Currently learning **React.js**, **React Native**, **Node.js** & enhancing **Full-Stack Development**
-- 👯 Looking to collaborate on **frontend/backend projects** or **ML/data visualization tools**
-- 💬 Ask me about **React**, **React Native**, **JavaScript**, **Python**, **MySQL**, **PL/SQL**, **Django**, **DSA**, **DAA**
-
+- 👯 Looking to collaborate on: **Fullstack**, **Frontend**, or **Backend** development projects
+- 💬 Ask me about **Frontend** & **Mobile Development** · **Backend APIs** · **Databases** · **Algorithms**
 - 📫 How to reach me **ankityadavok5@gmail.com**
+   <br> </br>
+  Let's build something great together! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
